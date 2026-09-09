@@ -10,7 +10,7 @@ export const initialPortfolioData: PortfolioProfile = {
     'Over the course of my career, I have led engineering initiatives for high-traffic SaaS platforms, reduced p99 latency in event-driven streaming clusters, and established design systems adopted across distributed engineering teams. I take pride in balancing rapid delivery with rigorous engineering standards—ensuring systems remain maintainable, secure, and observable.',
     'When I am not in my editor or profiling database queries, you can find me contributing to open-source tooling, mentoring aspiring engineers, and exploring the intersection of distributed systems and developer experience.'
   ],
-  location: 'San Francisco, CA (Open to Remote)',
+  location: 'Oxnard, CA (Open to Remote)',
   email: 'PhillipMacias82@gmail.com',
   availability: 'Open to Senior / Staff Roles & Advisory',
   yearsOfExperience: 8,
