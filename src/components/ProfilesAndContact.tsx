@@ -191,7 +191,7 @@ export const ProfilesAndContact: React.FC<ProfilesAndContactProps> = ({
               </p>
             </div>
 
-            {/* Direct Email Card with One-Click Copy */}
+            {/* Direct Email Card with One-Click Copy 
             <div 
               id="profile-card-email"
               className={`p-5 rounded-xl border transition-all ${
