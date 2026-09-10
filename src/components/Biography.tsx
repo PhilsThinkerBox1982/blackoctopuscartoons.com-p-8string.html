@@ -302,7 +302,7 @@ export const Biography: React.FC<BiographyProps> = ({ profile, darkMode, onOpenR
               <p className={`text-xs mt-1.5 ${
                 darkMode ? 'text-slate-400' : 'text-slate-500'
               }`}>
-              Coursework focus : General Education 
+              Coursework focus : General Education
 {profile.education[0].focus}
               </p>
             </div>
