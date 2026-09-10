@@ -339,7 +339,7 @@ export const initialPortfolioData: PortfolioProfile = {
     {
       institution: 'Chaffey College',
       degree: 'A.A. Liberal Arts and Sciences',
-      period: '2001 - 2004'
+      period: '2001 - 2004',
     }
   ]
 };
