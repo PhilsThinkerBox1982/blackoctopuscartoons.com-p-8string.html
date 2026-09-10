@@ -279,7 +279,7 @@ export const ProfilesAndContact: React.FC<ProfilesAndContactProps> = ({
             </div>
           </div>
 
-          {/* Right Column: Send a Message Form
+          {/* Right Column: Send a Message Form */} 
          <div style="display:none" 
             id="contact-form-container"
             className={`lg:col-span-7 p-6 sm:p-8 rounded-2xl border ${
