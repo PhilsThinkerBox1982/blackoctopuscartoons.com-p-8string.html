@@ -118,13 +118,13 @@ export const ProfilesAndContact: React.FC<ProfilesAndContactProps> = ({
                     <span className={`text-xs font-mono ${
                       darkMode ? 'text-slate-400' : 'text-slate-500'
                     }`}>
-                      @PhillipMacias
+                      @philsthinkerbox1982
                     </span>
                   </div>
                 </div>
 
                 <a
-                  href="https://github.com/PhillipMacias"
+                  href="https://github.com/philsthinkerbox1982"
                   target="_blank"
                   rel="noopener noreferrer"
                   className={`p-2 rounded-lg text-xs font-semibold inline-flex items-center gap-1 border transition-colors ${
@@ -165,13 +165,13 @@ export const ProfilesAndContact: React.FC<ProfilesAndContactProps> = ({
                     <span className={`text-xs font-mono ${
                       darkMode ? 'text-slate-400' : 'text-slate-500'
                     }`}>
-                      in/phillipmacias
+                      Phillip Macias
                     </span>
                   </div>
                 </div>
 
                 <a
-                  href="https://linkedin.com/in/phillipmacias"
+                  href="https://www.linkedin.com/in/phillip-macias-217020403?trk=contact-info"
                   target="_blank"
                   rel="noopener noreferrer"
                   className={`p-2 rounded-lg text-xs font-semibold inline-flex items-center gap-1 border transition-colors ${
