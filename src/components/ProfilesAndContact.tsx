@@ -422,7 +422,7 @@ export const ProfilesAndContact: React.FC<ProfilesAndContactProps> = ({
                     <span>Average reply time: &lt; 24h</span>
                   </div>
 
-                  <button
+                  <!--button
                     id="btn-submit-contact"
                     type="submit"
                     disabled={formStatus === 'submitting'}
@@ -430,7 +430,7 @@ export const ProfilesAndContact: React.FC<ProfilesAndContactProps> = ({
                   >
                     <Send className="w-4 h-4" />
                     <span>{formStatus === 'submitting' ? 'Sending...' : 'Send Message'}</span>
-                  </button>
+                  </button-->
                 </div>
               </form>
             )}
