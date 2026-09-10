@@ -80,7 +80,7 @@ export const initialPortfolioData: PortfolioProfile = {
         { label: 'Packet Drop', value: '0.001%' }
       ],
       technologies: ['Go', 'Kafka', 'Redis', 'WebSockets', 'TypeScript', 'Docker', 'Prometheus'],
-      githubUrl: 'https://github.com/PhillipMacias/apex-mesh',
+      githubUrl: 'https://github.com/philsthinkerbox1982/apex-mesh',
       liveUrl: 'https://apexmesh.demo.dev',
       caseStudy: {
         overview: 'ApexMesh was conceived to replace an aging monolithic polling queue that struggled under peak surge traffic, resulting in dropped telemetry payloads and erratic database spikes.',
@@ -114,7 +114,7 @@ export const initialPortfolioData: PortfolioProfile = {
         { label: 'Discrepancy Catch', value: '99.98%' }
       ],
       technologies: ['React 19', 'TypeScript', 'Node.js', 'PostgreSQL', 'Tailwind CSS', 'Docker'],
-      githubUrl: 'https://github.com/PhillipMacias/pulsevault-audit',
+      githubUrl: 'https://github.com/philsthinkerbox1982/pulsevault-audit',
       liveUrl: 'https://pulsevault.demo.dev',
       caseStudy: {
         overview: 'Financial operations teams spent 18+ hours each week manually inspecting multi-currency CSV extracts and merchant settlement batches.',
@@ -146,7 +146,7 @@ export const initialPortfolioData: PortfolioProfile = {
         { label: 'Weekly Runs', value: '42,000' }
       ],
       technologies: ['React', 'TypeScript', 'WebAssembly', 'Node.js', 'WebSockets', 'Tailwind CSS'],
-      githubUrl: 'https://github.com/PhillipMacias/vortex-cloud-sandbox',
+      githubUrl: 'https://github.com/philsthinkerbox1982/vortex-cloud-sandbox',
       liveUrl: 'https://vortexide.demo.dev',
       caseStudy: {
         overview: 'Modern developers needed a lightning-fast sandbox for testing code snippets and debugging algorithms without waiting for remote server boots.',
@@ -177,7 +177,7 @@ export const initialPortfolioData: PortfolioProfile = {
         { label: 'Sync Interval', value: '15s' }
       ],
       technologies: ['Go', 'Kubernetes', 'GraphQL', 'React', 'Prometheus', 'Tailwind CSS'],
-      githubUrl: 'https://github.com/PhillipMacias/kubeflow-inspector',
+      githubUrl: 'https://github.com/philsthinkerbox1982/kubeflow-inspector',
       caseStudy: {
         overview: 'Engineering organizations routinely waste up to 35% of cloud spend on idle Kubernetes pods and oversized resource requests.',
         challenge: 'Extracting live metric streams from hundreds of pods across diverse namespaces without introducing significant agent CPU overhead on target clusters.',
@@ -207,7 +207,7 @@ export const initialPortfolioData: PortfolioProfile = {
         { label: 'TS Type Safety', value: 'Strict' }
       ],
       technologies: ['TypeScript', 'React 19', 'Zod', 'Tailwind CSS', 'Vite'],
-      githubUrl: 'https://github.com/PhillipMacias/neuroform-engine',
+      githubUrl: 'https://github.com/philsthinkerbox1982/neuroform-engine',
       liveUrl: 'https://neuroform.demo.dev',
       caseStudy: {
         overview: 'Enterprise applications with 50+ input dynamic forms frequently suffer from sluggish input response times caused by full-tree React re-renders.',
@@ -238,7 +238,7 @@ export const initialPortfolioData: PortfolioProfile = {
         { label: 'OpenTelemetry', value: 'v1.2+' }
       ],
       technologies: ['Go', 'OpenTelemetry', 'Docker', 'Linux', 'REST APIs'],
-      githubUrl: 'https://github.com/PhillipMacias/echolog-agent',
+      githubUrl: 'https://github.com/philsthinkerbox1982/echolog-agent',
       caseStudy: {
         overview: 'Heavy log collector agents can consume upwards of 300MB RAM per host and choke application CPU during high I/O spikes.',
         challenge: 'Engineering an embeddable binary that parses syslog, Docker socket outputs, and custom JSON streams while guaranteeing zero memory leaks under continuous operation.',
