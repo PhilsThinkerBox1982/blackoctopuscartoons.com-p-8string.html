@@ -424,12 +424,17 @@ export const ProfilesAndContact: React.FC<ProfilesAndContactProps> = ({
 
                   <button
                     id="btn-submit-contact"
-                    type="submit"
-                    disabled={formStatus === 'submitting'}
-                    className="inline-flex items-center gap-2 px-6 py-2.5 rounded-xl font-semibold text-sm bg-indigo-600 hover:bg-indigo-500 text-white transition-all shadow-md shadow-indigo-600/20 disabled:opacity-50"
+                    type="button"
+                    value="e-mail not available"
+                    disabled
+                    className={`inline-flex items-center gap-2 px-6 py-2.5 rounded-xl font-semibold text-sm cursor-not-allowed border transition-all ${
+                      darkMode 
+                        ? 'bg-slate-800 border-slate-700 text-slate-400' 
+                        : 'bg-slate-100 border-slate-300 text-slate-500'
+                    }`}
                   >
-                    <Send className="w-4 h-4" />
-                    <span>{formStatus === 'submitting' ? 'Sending...' : 'Send Message'}</span>
+                    <Send className="w-4 h-4 opacity-50" />
+                    <span>E-mail Not Available</span>
                   </button>
                 </div>
               </form>
