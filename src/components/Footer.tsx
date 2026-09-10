@@ -42,7 +42,7 @@ export const Footer: React.FC<FooterProps> = ({ profile, darkMode }) => {
           <div className="flex items-center gap-4" id="footer-social-links">
             <a
               id="footer-link-github"
-              href="https://github.com/PhillipMacias"
+              href="https://github.com/philsthinkerbox1982"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub Profile"
@@ -55,7 +55,7 @@ export const Footer: React.FC<FooterProps> = ({ profile, darkMode }) => {
 
             <a
               id="footer-link-linkedin"
-              href="https://linkedin.com/in/phillipmacias"
+              href="https://www.linkedin.com/in/phillip-macias-217020403?trk=contact-info"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn Profile"
