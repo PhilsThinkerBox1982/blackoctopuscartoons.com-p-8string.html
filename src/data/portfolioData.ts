@@ -11,8 +11,7 @@ export const initialPortfolioData: PortfolioProfile = {
     'When I am not in my editor or profiling database queries, you can find me contributing to open-source tooling, mentoring aspiring engineers, and exploring the intersection of distributed systems and developer experience.'
   ],
   location: 'Oxnard, CA (Open to Remote)',
-  email: 'PhillipMacias82@gmail.com',
-  availability: 'Open to Senior / Staff Roles & Advisory',
+  email: 'phillipmacias82@gmail.com', 
   yearsOfExperience: 8,
   principles: [
     {
@@ -35,24 +34,23 @@ export const initialPortfolioData: PortfolioProfile = {
   socialProfiles: [
     {
       name: 'GitHub',
-      url: 'https://github.com/PhillipMacias',
-      username: '@PhillipMacias',
+      url: 'https://github.com/philsthinkerbox1982',
+      username: '@philsthinkerbox1982',
       icon: 'github',
       primary: true,
       color: 'slate'
     },
     {
       name: 'LinkedIn',
-      url: 'https://linkedin.com/in/phillipmacias',
-      username: 'in/phillipmacias',
+      url: 'https://www.linkedin.com/in/phillip-macias-217020403',
       icon: 'linkedin',
       primary: true,
       color: 'blue'
     },
     {
       name: 'Email Direct',
-      url: 'mailto:PhillipMacias82@gmail.com',
-      username: 'PhillipMacias82@gmail.com',
+      url: 'mailto:phillipmacias82@gmail.com',
+      username: 'phillipmacias82@gmail.com',
       icon: 'mail',
       primary: true,
       color: 'emerald'
@@ -339,11 +337,9 @@ export const initialPortfolioData: PortfolioProfile = {
   ],
   education: [
     {
-      institution: 'University of California, Berkeley',
-      degree: 'B.S. in Computer Science',
-      period: '2013 — 2017',
-      honors: 'Dean\'s Honors List',
-      focus: 'Distributed Systems, Operating Systems, Algorithm Analysis, Human-Computer Interaction'
+      institution: 'Chaffey College',
+      degree: 'A.A. Liberal Arts and Sciences',
+      period: '2001 - 2004'
     }
   ]
 };
